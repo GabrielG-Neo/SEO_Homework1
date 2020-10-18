@@ -8,6 +8,8 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Removed periods to connect all header and added margins to match the other boxes
+    the page to match the rest of the boxes */
 header {
     padding: 20px;
     margin-top: 20px;
@@ -24,6 +26,7 @@ header h1 {
     font-size: 48px;
 }
 
+/* Changed seo to an id */
 #seo {
     color: #d9dcd6;
 }
@@ -55,6 +58,7 @@ p {
     font-size: 16px;
 }
 
+/* added margins to match the other boxes margins and reduced the height */
 .hero {
     height: 600px;
     margin-bottom: 20px;
@@ -82,7 +86,8 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
+/* Changed benefits to aside and changed background color */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -141,6 +146,7 @@ p {
     max-width: 150px;
 }
 
+/* change color */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -150,6 +156,7 @@ p {
     color: #ffffff;
 }
 
+/* changed color */
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -159,6 +166,7 @@ p {
     color: #ffffff;
 }
 
+/* changed color */
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -195,6 +203,7 @@ p {
     font-size: 36px;
 }
 
+/* Removed the periods to connect footers*/
 footer {
     padding: 30px;
     clear: both;
